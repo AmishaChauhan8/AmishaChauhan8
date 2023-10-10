@@ -1,5 +1,5 @@
 # 💫 About Me:
-🚀 Skills:  Learning Python and enthusiastic about software development.<br><br>💻 Projects: Currently working on exciting projects involving Python. Check them out below!<br><br>🌟 Interests: Web development, machine learning, and exploring innovative tech solutions.<br><br>Let's code something amazing together! 🚀
+🚀 Skills:  Learning Python and enthusiastic about software development.<br><br>💻 Projects: Currently working on exciting projects involving Python. Check them out below!<br><br>🌟 Interests: Web development, machine learning, and exploring innovative tech solutions.<br><br> 🚀
 
 
 ## 🌐 Socials:
